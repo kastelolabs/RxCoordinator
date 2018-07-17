@@ -182,7 +182,7 @@ pod 'rx-coordinator'
 To integrate RxCoordinator into your Xcode project using Carthage, add this to your `Cartfile`:
 
 ```
-github "quickbirdstudios/RxCoordinator" ~> 0.5
+github "quickbirdstudios/RxCoordinator" ~> 0.5.1
 ```
 
 Then run `carthage update`.
